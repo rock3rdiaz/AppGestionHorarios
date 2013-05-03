@@ -1,0 +1,799 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"model",
+				"model_programa_ejercicios_ejercicios"
+			],
+			[
+				"datos",
+				"datos_ejercicios"
+			],
+			[
+				"listado",
+				"listado_repeticiones_ejercicios"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"model_dao",
+				"model_datos_extra_usuario"
+			],
+			[
+				"model_antecen",
+				"model_antecedentes_patologicos"
+			],
+			[
+				"model_ante",
+				"model_antecedentes_trauma_lesion"
+			],
+			[
+				"model_antec",
+				"model_antecedentes_ginecobstetricos"
+			],
+			[
+				"Medi",
+				"MedidasFisicas"
+			],
+			[
+				"Antecde",
+				"AntecedentesGinecobstetricos"
+			],
+			[
+				"Anteced",
+				"AntecedentesDeportivos"
+			],
+			[
+				"Antecede",
+				"AntecedentesGinecobstetricos"
+			],
+			[
+				"lisa",
+				"listado_enfermedades"
+			],
+			[
+				"lis",
+				"listado_enfermedades"
+			],
+			[
+				"campo",
+				"campo_oculto"
+			],
+			[
+				"enfermedades",
+				"enfermedades_json"
+			],
+			[
+				"enfermed",
+				"enfermedades_json"
+			],
+			[
+				"id",
+				"id_usuario"
+			],
+			[
+				"getDat",
+				"ajaxGetDatosExtraUsuario"
+			],
+			[
+				"dato",
+				"datos_extra_usuario"
+			],
+			[
+				"dat",
+				"datos_extra_usuario"
+			],
+			[
+				"idD",
+				"idAntecedentes_deportivos  (variable)"
+			],
+			[
+				"Datos",
+				"DatosExtraUsuario"
+			],
+			[
+				"Examen",
+				"ExamenFisico"
+			],
+			[
+				"AntecedentesTra",
+				"AntecedentesTraumaLesion"
+			],
+			[
+				"Antece",
+				"AntecedentesDeportivos"
+			],
+			[
+				"js",
+				"json_data"
+			],
+			[
+				"jso",
+				"json_encode  (function)"
+			],
+			[
+				"ajaxBuscar",
+				"ajaxBuscarAntecedentesImportantes(obj)	Miscelaneaus.js"
+			],
+			[
+				"arra",
+				"array_datos"
+			],
+			[
+				"get",
+				"getFactoresDeRiesgo  (function)"
+			],
+			[
+				"ries",
+				"riesgo_cardiovascular"
+			],
+			[
+				"model_tra",
+				"model_trabajo_estiramiento"
+			],
+			[
+				"Trabajo",
+				"TrabajoEstiramiento"
+			],
+			[
+				"Trabaj",
+				"TrabajoCardiovascular"
+			],
+			[
+				"Tra",
+				"TrabajoCardiovascular"
+			],
+			[
+				"ins",
+				"instructor"
+			],
+			[
+				"nombre",
+				"nombre_completo"
+			],
+			[
+				"fecha",
+				"fecha_nacimiento_usuario"
+			],
+			[
+				"va",
+				"value	@value"
+			],
+			[
+				"act",
+				"actualizar"
+			],
+			[
+				"model_",
+				"model_antecedentes_usuario"
+			],
+			[
+				"modelos",
+				"modelos_secundarios"
+			],
+			[
+				"cedu",
+				"cedula_usuario"
+			],
+			[
+				"Im",
+				"ImprimirDocumentos  (class)"
+			],
+			[
+				"listad",
+				"listado_planes_entrenamiento_libres"
+			],
+			[
+				"plane",
+				"planes_libres"
+			],
+			[
+				"Progra",
+				"ProgramaEjerciciosHasEnfermedad"
+			],
+			[
+				"Programa",
+				"ProgramaEjerciciosHasEnfermedad  (class)"
+			],
+			[
+				"idP",
+				"idPlan_entrenamiento  (variable)"
+			],
+			[
+				"model_trb",
+				"model_trabajo_estiramiento"
+			],
+			[
+				"model_trab",
+				"model_trabajo_cardiovascular"
+			],
+			[
+				"idV",
+				"idValoracion_funcional"
+			],
+			[
+				"vf",
+				"vf_disponibles"
+			],
+			[
+				"model_traba",
+				"model_trabajo_estiramiento"
+			],
+			[
+				"ante",
+				"antecedentes_usuario"
+			],
+			[
+				"CActive",
+				"CActiveDataProvider"
+			],
+			[
+				"idHis",
+				"idHistoria_GYM"
+			],
+			[
+				"idH",
+				"idHistoria_GYM  (variable)"
+			],
+			[
+				"model_antece",
+				"model_antecedentes_patologicos_enfermedad"
+			],
+			[
+				"model_examen",
+				"model_examen"
+			],
+			[
+				"str",
+				"str_enfermedades"
+			],
+			[
+				"css",
+				"css( name, value )	jquery.js"
+			],
+			[
+				"control",
+				"controller_ex"
+			],
+			[
+				"contro",
+				"controller_ex"
+			],
+			[
+				"Exam",
+				"ExamenController  (class)"
+			],
+			[
+				"model_antecede",
+				"model_antecedentes_trauma_lesion"
+			],
+			[
+				"idEva",
+				"idEvaluacion_medica  (variable)"
+			],
+			[
+				"tele",
+				"telefono_usuario"
+			],
+			[
+				"dire",
+				"direccion_residencia_usuario"
+			],
+			[
+				"Dat",
+				"DatosExtraUsuario  (class)"
+			],
+			[
+				"CI",
+				"cita"
+			],
+			[
+				"nom",
+				"nombre_completo"
+			],
+			[
+				"arr",
+				"arr_s"
+			],
+			[
+				"fget",
+				"fgets  (function)"
+			],
+			[
+				"wi",
+				"width:   (property)"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"mari",
+				"margin-left"
+			],
+			[
+				"func",
+				"funcionarios"
+			],
+			[
+				"sty",
+				"style	@style"
+			],
+			[
+				"fun",
+				"_funcionario"
+			],
+			[
+				"id_ar",
+				"id_area_en_nomina"
+			],
+			[
+				"are",
+				"areas_evaluadoras"
+			],
+			[
+				"funci",
+				"funcionario"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"area",
+				"areas_evaluadoras"
+			],
+			[
+				"areas",
+				"areas_evaluadoras"
+			],
+			[
+				"ARE",
+				"areas_evaluadoras"
+			],
+			[
+				"aras",
+				"areas_evaluadoras"
+			],
+			[
+				"hi",
+				"hidden	@=hidden"
+			],
+			[
+				"con",
+				"contenedor_areas"
+			],
+			[
+				"ele",
+				"element2_html"
+			],
+			[
+				"si",
+				"size:   (property)"
+			],
+			[
+				"font",
+				"font-family:   (property)"
+			],
+			[
+				"text",
+				"textField"
+			],
+			[
+				"tex",
+				"textField"
+			],
+			[
+				"condi",
+				"condition"
+			],
+			[
+				"fe",
+				"fechaingreso"
+			],
+			[
+				"num",
+				"num_dias"
+			],
+			[
+				"data",
+				"data_provider"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"packlag",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"snipet:ht",
+				"Snippet: html"
+			],
+			[
+				"snipp",
+				"Snippet: html"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"paclage",
+				"Package Control: Install Package"
+			],
+			[
+				":html",
+				"Snippet: html"
+			],
+			[
+				"aackag",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"packiag",
+				"Package Control: Install Package"
+			],
+			[
+				"packge",
+				"Package Control: Enable Package"
+			],
+			[
+				"paclkage",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/config/main.php",
+		"/C/xampp/htdocs/AppGymHC/trunk/trunk_0.7/protected/config/main.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/components/Controller.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/medico/views/evaluacionMedica/_form.php",
+		"/C/Users/rockerW7/Desktop/ER_min.sql",
+		"/C/Users/rockerW7/Desktop/eded.sql",
+		"/C/Users/rockerW7/Desktop/5555555.sql",
+		"/C/Users/rockerW7/Desktop/ASA.sql",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/medico/controllers/EvaluacionMedicaController.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/js/Miscelaneaus.js",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/models/Cita.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/administrador/controllers/EmpleadoController.php",
+		"/C/Users/rockerW7/Desktop/CMCCCF4320130211",
+		"/C/Validator/LogValidator",
+		"/C/Users/rockerW7/Documents/NetBeansProjects/RUAF_modificado/ERRORES20130211.txt",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/instructor/controllers/EjercicioController.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/instructor/views/programaEjercicios/_form.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/instructor/controllers/ProgramaEjerciciosController.php",
+		"/C/Users/rockerW7/Documents/NetBeansProjects/RUAF/branches/DesktopRuaf/dist/README.TXT",
+		"/C/Users/rockerW7/Desktop/KumbiaPHP-master/core/libs/event/hook.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/models/Rutina.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/models/ProgramaEjerciciosHasEnfermedad.php",
+		"/C/Users/rockerW7/Documents/Archivos Comfenalco/Documentos ingdiaz/Proyectos/GymHC/Base de datos/GymHC-MSSQL.sql",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/instructor/views/programaEjercicios/view.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/instructor/views/programaEjercicios/create.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/instructor/views/programaEjercicios/_view.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/instructor/views/programaEjercicios/admin.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/controllers/SiteController.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/instructor/controllers/DefaultController.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/instructor/views/ejercicio/_form.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/models/Ejercicio.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/instructor/views/ejercicio/admin.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/instructor/views/ejercicio/_view.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/instructor/views/ejercicio/view.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/instructor/views/ejercicio/_search.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/views/layouts/main.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/instructor/views/ejercicio/create.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/fisioterapeuta/views/valoracionFuncional/_form.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/instructor/views/programaEjercicios/_search.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/secretaria/views/default/index.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/assets/d96e4cb7/fullcalendar.js",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/extensions/fullcalendar/assets/fullcalendar.js",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/extensions/fullcalendar/assets/fullcalendar.css",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/assets/d96e4cb7/fullcalendar.css",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/css/main.css",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/extensions/fullcalendar/FullcalendarWidget.php",
+		"/C/xampp/htdocs/AppGymHC/trunk/trunk_0.7/protected/modules/fisioterapeuta/views/valoracionFuncional/_form.php",
+		"/C/xampp/htdocs/AppGymHC/trunk/trunk_0.7/protected/modules/fisioterapeuta/controllers/ValoracionFuncionalController.php",
+		"/C/xampp/htdocs/AppGymHC/trunk/trunk_0.7/protected/modules/fisioterapeuta/views/valoracionFuncional/create.php",
+		"/C/xampp/htdocs/AppGymHC/trunk/trunk_0.7/protected/modules/fisioterapeuta/views/valoracionFuncional/admin.php",
+		"/C/xampp/htdocs/AppGymHC/trunk/trunk_0.7/js/Miscelaneaus.js",
+		"/C/xampp/htdocs/AppGymHC/trunk/trunk_0.7/protected/protected/modules/fisioterapeuta/views/valoracionFuncional/_form.php",
+		"/C/xampp/htdocs/AppGymHC/trunk/trunk_0.7/protected/protected/modules/fisioterapeuta/views/valoracionFuncional/_viewTestFuncionales.php",
+		"/C/xampp/htdocs/AppGymHC/trunk/trunk_0.7/protected/protected/modules/fisioterapeuta/views/valoracionFuncional/_viewPerimetros.php",
+		"/C/xampp/htdocs/AppGymHC/trunk/trunk_0.7/protected/protected/modules/fisioterapeuta/views/valoracionFuncional/_viewObservaciones.php",
+		"/C/xampp/htdocs/AppGymHC/trunk/trunk_0.7/protected/protected/modules/fisioterapeuta/views/valoracionFuncional/_viewFrecuenciaEntrenamiento.php",
+		"/C/xampp/htdocs/AppGymHC/trunk/trunk_0.7/protected/protected/modules/fisioterapeuta/views/valoracionFuncional/_viewDatosGenerales.php",
+		"/C/xampp/htdocs/AppGymHC/trunk/trunk_0.7/protected/protected/modules/fisioterapeuta/views/valoracionFuncional/_viewAntecedentesUsuario.php",
+		"/C/xampp/htdocs/AppGymHC/trunk/trunk_0.7/protected/protected/modules/fisioterapeuta/views/valoracionFuncional/create.php",
+		"/C/xampp/htdocs/AppGymHC/trunk/trunk_0.7/protected/models/HistoriaGYM.php",
+		"/C/xampp/htdocs/AppGymHC/trunk/trunk_0.7/protected/modules/fisioterapeuta/views/valoracionFuncional/_search.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/secretaria/controllers/CitaController.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/extensions/fullcalendar/FullcalendarGraphWidget.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/extensions/fullcalendar/assets/fullcalendar.min.js",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/extensions/fullcalendar/assets/jquery-ui-custom.js",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/extensions/fullcalendar/assets/gcal.js",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/secretaria/controllers/DefaultController.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/medico/views/evaluacionMedica/update.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/components/PDF.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/administrador/controllers/CargoController.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/fisioterapeuta/controllers/ValoracionFuncionalController.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/models/HistoriaGYM.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/fisioterapeuta/views/valoracionFuncional/update.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/medico/views/evaluacionMedica/create.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/medico/views/evaluacionMedica/_viewDatosGenerales.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/medico/views/evaluacionMedica/_view.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/medico/views/enfermedad/_search.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/medico/views/enfermedad/update.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/medico/views/enfermedad/_form.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/medico/views/enfermedad/admin.php",
+		"/C/Users/rockerW7/Desktop/EvaluacionMedicaController.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/medico/controllers/EnfermedadController.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/medico/views/evaluacionMedica/_viewAntecedentesPatologicos.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/fisioterapeuta/controllers/PlanEntrenamientoController.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/secretaria/views/cita/admin.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/medico/views/examen/_form.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/administrador/controllers/DefaultController.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/models/DatosExtraUsuario.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/models/VUsuarios.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/medico/views/evaluacionMedica/admin.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/fisioterapeuta/views/planEntrenamiento/_form.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/fisioterapeuta/views/planEntrenamiento/update.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/fisioterapeuta/views/planEntrenamiento/create.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/models/PlanEntrenamiento.php",
+		"/C/xampp/htdocs/PHPTraining/Nivel3/index1.php",
+		"/C/xampp/htdocs/PHPTraining/Ejemplo mysqli/consultaInsert.php",
+		"/C/xampp/htdocs/PHPTraining/Ejemplo mysqli/consultaSelect.php",
+		"/C/xampp/htdocs/PHPTraining/Ejemplo mysqli/conexion.php",
+		"/C/Users/rockerW7/Dropbox/Proyectos/PHPTraining/Ejemplo mysqli/consultaInsert.php",
+		"/C/Users/rockerW7/Dropbox/Proyectos/PHPTraining/Ejemplo mysqli/consultaSelect.php",
+		"/C/Users/rockerW7/Dropbox/Proyectos/PHPTraining/Ejemplo mysqli/conexion.php",
+		"/C/xampp/htdocs/PHPTraining/Nivel2/index.php",
+		"/C/Users/rockerW7/Dropbox/Proyectos/PHPTraining/Nivel3/conexion.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/models/ValoracionFuncional.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/models/ImpresionDiagnostica.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/fisioterapeuta/views/valoracionFuncional/_viewAntecedentesUsuario.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/fisioterapeuta/views/planEntrenamiento/view.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/fisioterapeuta/views/planEntrenamiento/admin.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/fisioterapeuta/views/planEntrenamiento/_search.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/models/ProgramaEjercicios.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/models/Empleado.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/models/Enfermedad.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/fisioterapeuta/views/valoracionFuncional/_viewDatosGenerales.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/fisioterapeuta/views/valoracionFuncional/create.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/fisioterapeuta/views/valoracionFuncional/admin.php",
+		"/C/Users/rockerW7/Desktop/docdocumentotemp.sql",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/secretaria/views/cita/_form.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/secretaria/views/cita/update.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/secretaria/views/cita/create.php",
+		"/C/Users/rockerW7/Dropbox/Lenguajes de programacion/PHP/POO y MVC con PHP/mvc/usuarios/view.php",
+		"/C/Users/rockerW7/Dropbox/Lenguajes de programacion/PHP/POO y MVC con PHP/mvc/usuarios/controller.php",
+		"/C/Users/rockerW7/Dropbox/Lenguajes de programacion/PHP/POO y MVC con PHP/mvc/core/db_abstract_model.php",
+		"/C/Users/rockerW7/Dropbox/Lenguajes de programacion/PHP/POO y MVC con PHP/mvc/usuarios/constants.php",
+		"/C/Users/rockerW7/Dropbox/Lenguajes de programacion/PHP/POO y MVC con PHP/mvc/usuarios/model.php",
+		"/C/Users/rockerW7/Dropbox/Lenguajes de programacion/PHP/POO y MVC con PHP/mvc/site_media/html/user_buscar.html",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/models/LoginForm.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/secretaria/views/cita/view.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/secretaria/SecretariaModule.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"$model",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"model_programa_ejercicios_ejercicios",
+			"value",
+			");\n",
+			"data",
+			".*/",
+			"array_enfermedades",
+			"xxx",
+			"new",
+			"“",
+			"id_valoracion_funcional",
+			";\n",
+			"nombre_usuario",
+			"new",
+			"docdocumentotemp",
+			"`docdocumentotemp`\n",
+			"docdocumentotemp\n",
+			"\")\n",
+			"');\n",
+			"extensions",
+			"                }",
+			"idVUsuario",
+			"Seleccione una opcion",
+			"disabled",
+			"getPerfil",
+			"(){\n",
+			"IDENTIY",
+			"/*!",
+			"model_examen",
+			"model",
+			"();\n",
+			"()))",
+			"FontSizePt",
+			"Tarjeta",
+			"numtrans",
+			"areas",
+			"span9",
+			"print_r",
+			"NIT_M",
+			"id_area_evaluadora",
+			"app",
+			"();\n",
+			"areas",
+			"false",
+			"$model_detallemante",
+			"time",
+			"Deporte",
+			"num_dias",
+			"fechamant",
+			"Name",
+			"name"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"`docdocumentofinal`",
+			"docdocumentofinal",
+			"IDENTITY",
+			"get",
+			"$model",
+			"Detallemante"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.phpdocumentor":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/xampp/htdocs/AppSolicitudes/AppSolicitudes.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 281.0,
+	"status_bar_visible": true
+}
