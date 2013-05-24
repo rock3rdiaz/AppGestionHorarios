@@ -11,7 +11,7 @@
  *
  * The followings are the available model relations:
  * @property Actividad[] $actividads
- * @property Incidencia[] $incidencias
+ * @property Programacion[] $programacions
  * @property Turno[] $turnos
  */
 class Horario extends CActiveRecord
@@ -59,7 +59,7 @@ class Horario extends CActiveRecord
 		// class name for the relations automatically generated below.
 		return array(
 			'actividads' => array(self::MANY_MANY, 'Actividad', 'actividad_has_horario(Horario_idHorario, Actividad_idActividad)'),
-			'incidencias' => array(self::HAS_MANY, 'Incidencia', 'Horario_idHorario'),
+			'programacions' => array(self::HAS_MANY, 'Programacion', 'Horario_idHorario'),
 			'turnos' => array(self::MANY_MANY, 'Turno', 'turno_has_horario(Horario_idHorario, Turno_idTurno)'),
 		);
 	}
@@ -95,6 +95,20 @@ class Horario extends CActiveRecord
 
 		return new CActiveDataProvider($this, array(
 			'criteria'=>$criteria,
+		));
+	}
+
+	public function getAllHorariosPorTurno($id_turno){
+
+		$criteria = new CDbCriteria();
+
+		$criteria->select    = "idHorario, dia, hora_inicio, hora_fin";
+		$criteria->join      = "inner join turno_has_horario on Horario_idHorario = idHorario";		
+		$criteria->condition = "Turno_idTurno = '$id_turno'";
+
+		return new CActiveDataProvider($this, array(
+			'criteria'=>$criteria,			
+			'pagination'=>false,
 		));
 	}
 }

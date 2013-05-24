@@ -9,8 +9,6 @@
  * @property integer $total_horas
  *
  * The followings are the available model relations:
- * @property Instructor[] $instructors
- * @property Calendario[] $calendarios
  * @property Horario[] $horarios
  */
 class Turno extends CActiveRecord
@@ -58,8 +56,6 @@ class Turno extends CActiveRecord
 		// NOTE: you may need to adjust the relation name and the related
 		// class name for the relations automatically generated below.
 		return array(
-			'instructors' => array(self::HAS_MANY, 'Instructor', 'Turno_idTurno'),
-			'calendarios' => array(self::MANY_MANY, 'Calendario', 'turno_has_calendario(Turno_idTurno, Calendario_idCalendario)'),
 			'horarios' => array(self::MANY_MANY, 'Horario', 'turno_has_horario(Turno_idTurno, Horario_idHorario)'),
 		);
 	}

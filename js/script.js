@@ -1,8 +1,8 @@
-$(document).on('ready', iniciar());
 
-	function iniciar(){
+/*$(document).on('ready', function(){}) es igual a la implementacion que se encuentra justo debajo de este comentario*/
 
-		$("#btn_add_horario").on('click', function(){
+$(function(){
+	$("#btn_add_horario").on('click', function(){
 			adicionarHTML();
 		});
 
@@ -31,7 +31,7 @@ $(document).on('ready', iniciar());
 			}
 				
 		});
-	}
+	});
 
 	/**
 	* @summary: Funcion que genera todos los horarios entre dos horas establecidas. La duracion de cada segmento es de 1 hora.

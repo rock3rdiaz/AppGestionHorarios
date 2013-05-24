@@ -5,13 +5,10 @@
  *
  * The followings are the available columns in table 'incidencia':
  * @property integer $idIncidencia
- * @property integer $Instructor_idInstructor
- * @property integer $Horario_idHorario
  * @property string $descripcion
  *
  * The followings are the available model relations:
- * @property Instructor $instructorIdInstructor
- * @property Horario $horarioIdHorario
+ * @property Programacion[] $programacions
  */
 class Incidencia extends CActiveRecord
 {
@@ -41,12 +38,11 @@ class Incidencia extends CActiveRecord
 		// NOTE: you should only define rules for those attributes that
 		// will receive user inputs.
 		return array(
-			array('Instructor_idInstructor, Horario_idHorario, descripcion', 'required'),
-			array('Instructor_idInstructor, Horario_idHorario', 'numerical', 'integerOnly'=>true),
+			array('descripcion', 'required'),
 			array('descripcion', 'length', 'max'=>45),
 			// The following rule is used by search().
 			// Please remove those attributes that should not be searched.
-			array('idIncidencia, Instructor_idInstructor, Horario_idHorario, descripcion', 'safe', 'on'=>'search'),
+			array('idIncidencia, descripcion', 'safe', 'on'=>'search'),
 		);
 	}
 
@@ -58,8 +54,7 @@ class Incidencia extends CActiveRecord
 		// NOTE: you may need to adjust the relation name and the related
 		// class name for the relations automatically generated below.
 		return array(
-			'instructorIdInstructor' => array(self::BELONGS_TO, 'Instructor', 'Instructor_idInstructor'),
-			'horarioIdHorario' => array(self::BELONGS_TO, 'Horario', 'Horario_idHorario'),
+			'programacions' => array(self::HAS_MANY, 'Programacion', 'Incidencia_idIncidencia'),
 		);
 	}
 
@@ -70,8 +65,6 @@ class Incidencia extends CActiveRecord
 	{
 		return array(
 			'idIncidencia' => 'Id Incidencia',
-			'Instructor_idInstructor' => 'Instructor Id Instructor',
-			'Horario_idHorario' => 'Horario Id Horario',
 			'descripcion' => 'Descripcion',
 		);
 	}
@@ -88,8 +81,6 @@ class Incidencia extends CActiveRecord
 		$criteria=new CDbCriteria;
 
 		$criteria->compare('idIncidencia',$this->idIncidencia);
-		$criteria->compare('Instructor_idInstructor',$this->Instructor_idInstructor);
-		$criteria->compare('Horario_idHorario',$this->Horario_idHorario);
 		$criteria->compare('descripcion',$this->descripcion,true);
 
 		return new CActiveDataProvider($this, array(

@@ -62,23 +62,18 @@ class TurnoController extends Controller
 	public function actionCreate()
 	{
 		$model=new Turno;
-		$model_turno_calendario = new TurnoHasCalendario();
 
 		// Uncomment the following line if AJAX validation is needed
 		// $this->performAjaxValidation($model);
 
-		if(isset($_POST['Turno'], $_POST['TurnoHasCalendario']))
+		if(isset($_POST['Turno']))
 		{
 			$model->attributes                  = $_POST['Turno'];
-			$model_turno_calendario->attributes = $_POST['TurnoHasCalendario'];	
 
 			$datos_horarios = CJSON::decode($_POST['datos_horarios']);
 			$model->total_horas = count($datos_horarios);//Almacenamos el campo 'total_horas' asociado a la tabla 'Turno'.
 
-			if($model->save()){
-				/*Almaceno la relacion entre las tablas 'Turno' y 'Calendario' por medio de la tabla puente 'Turno_has_Calendario'.*/
-				$model_turno_calendario->Turno_idTurno = $model->getPrimaryKey();
-				$model_turno_calendario->save();
+			if($model->save()){				
 				
 				foreach($datos_horarios as $data){
 					$model_horario = new Horario();
@@ -115,7 +110,6 @@ class TurnoController extends Controller
 
 		$this->render('create',array(
 			'model'=>$model,
-			'model_turno_calendario'=>$model_turno_calendario,
 		));
 	}
 
@@ -127,8 +121,7 @@ class TurnoController extends Controller
 	public function actionUpdate($id)
 	{
 		$model=$this->loadModel($id);
-
-		$model_turno_calendario = TurnoHasCalendario::model()->findByAttributes(array('Turno_idTurno'=>$model->getPrimaryKey(), 'Calendario_idCalendario'=>Calendario::model()->findByAttributes(array('estado'=>'activo'))->getPrimaryKey()));
+		
 		$model_turno_horarios   = TurnoHasHorario::model()->findAllByAttributes(array('Turno_idTurno'=>$model->getPrimaryKey()));
 		
 		//Creo un array con todos los horarios asociados al turno que deseeo actualizar.
@@ -139,15 +132,14 @@ class TurnoController extends Controller
 		// Uncomment the following line if AJAX validation is needed
 		// $this->performAjaxValidation($model);
 
-		if(isset($_POST['Turno'], $_POST['TurnoHasCalendario']))
+		if(isset($_POST['Turno']))
 		{
 			$model->attributes                  = $_POST['Turno'];
-			$model_turno_calendario->attributes = $_POST['TurnoHasCalendario'];	
 
 			$datos_horarios     = CJSON::decode($_POST['datos_horarios']);
 			$model->total_horas = count($datos_horarios);//Almacenamos el campo 'total_horas' asociado a la tabla 'Turno'.
 
-			if($model->update() && $model_turno_calendario->update()){
+			if($model->update()){
 
 				//Elimino todos los horarios asociados al turno para crear los nuevos enviados desde el formulario.
 				for($i = 0; $i < count($model_turno_horarios); $i++){
@@ -195,7 +187,6 @@ class TurnoController extends Controller
 
 		$this->render('update',array(
 			'model'=>$model,
-			'model_turno_calendario'=>$model_turno_calendario,
 			'horarios'=>$horarios,
 		));
 	}

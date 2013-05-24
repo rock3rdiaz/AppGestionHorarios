@@ -6,17 +6,7 @@
 
 	<p class="help-block">Fields with <span class="required">*</span> are required.</p>
 
-	<?php echo $form->errorSummary(array($model, $model_turno_calendario)); ?>
-
-	<fieldset>
-		<legend>Datos del calendario</legend>
-		<div class="well">
-			<?php
-				$calendarios = CHtml::listData(Calendario::model()->findAllByAttributes(array('estado'=>'activo'), array('order'=>'fecha_inicial asc')), 'idCalendario', 'fecha_inicial');
-				echo $form->dropDownListRow($model_turno_calendario, 'Calendario_idCalendario', $calendarios);
-			?>
-		</div>		
-	</fieldset>
+	<?php echo $form->errorSummary($model); ?>
 
 	<fieldset>
 		<legend>Datos del turno</legend>

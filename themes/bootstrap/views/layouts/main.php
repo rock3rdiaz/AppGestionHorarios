@@ -22,7 +22,7 @@
                 array('label'=>'Calendarios', 'url'=>array('/calendario/index')),
                 array('label'=>'Turnos', 'url'=>array('/turno/index')),
                 array('label'=>'Actividades', 'url'=>array('/actividad/index')),
-                array('label'=>'Login', 'url'=>array('/site/login'), 'visible'=>Yii::app()->user->isGuest),
+                array('label'=>'Programacion', 'url'=>array('/Programacion/index')),
                 array('label'=>'Logout ('.Yii::app()->user->name.')', 'url'=>array('/site/logout'), 'visible'=>!Yii::app()->user->isGuest)
             ),
         ),

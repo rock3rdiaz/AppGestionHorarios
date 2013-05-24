@@ -1,0 +1,1819 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"id",
+				"id_turno"
+			],
+			[
+				"_P",
+				"_POST"
+			],
+			[
+				"fecha",
+				"fecha_inicial  (variable)"
+			],
+			[
+				"model",
+				"model_programa_ejercicios_ejercicios"
+			],
+			[
+				"datos",
+				"datos_ejercicios"
+			],
+			[
+				"listado",
+				"listado_repeticiones_ejercicios"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"model_dao",
+				"model_datos_extra_usuario"
+			],
+			[
+				"model_antecen",
+				"model_antecedentes_patologicos"
+			],
+			[
+				"model_ante",
+				"model_antecedentes_trauma_lesion"
+			],
+			[
+				"model_antec",
+				"model_antecedentes_ginecobstetricos"
+			],
+			[
+				"Medi",
+				"MedidasFisicas"
+			],
+			[
+				"Antecde",
+				"AntecedentesGinecobstetricos"
+			],
+			[
+				"Anteced",
+				"AntecedentesDeportivos"
+			],
+			[
+				"Antecede",
+				"AntecedentesGinecobstetricos"
+			],
+			[
+				"lisa",
+				"listado_enfermedades"
+			],
+			[
+				"lis",
+				"listado_enfermedades"
+			],
+			[
+				"campo",
+				"campo_oculto"
+			],
+			[
+				"enfermedades",
+				"enfermedades_json"
+			],
+			[
+				"enfermed",
+				"enfermedades_json"
+			],
+			[
+				"getDat",
+				"ajaxGetDatosExtraUsuario"
+			],
+			[
+				"dato",
+				"datos_extra_usuario"
+			],
+			[
+				"dat",
+				"datos_extra_usuario"
+			],
+			[
+				"idD",
+				"idAntecedentes_deportivos  (variable)"
+			],
+			[
+				"Datos",
+				"DatosExtraUsuario"
+			],
+			[
+				"Examen",
+				"ExamenFisico"
+			],
+			[
+				"AntecedentesTra",
+				"AntecedentesTraumaLesion"
+			],
+			[
+				"Antece",
+				"AntecedentesDeportivos"
+			],
+			[
+				"js",
+				"json_data"
+			],
+			[
+				"jso",
+				"json_encode  (function)"
+			],
+			[
+				"ajaxBuscar",
+				"ajaxBuscarAntecedentesImportantes(obj)	Miscelaneaus.js"
+			],
+			[
+				"arra",
+				"array_datos"
+			],
+			[
+				"get",
+				"getFactoresDeRiesgo  (function)"
+			],
+			[
+				"ries",
+				"riesgo_cardiovascular"
+			],
+			[
+				"model_tra",
+				"model_trabajo_estiramiento"
+			],
+			[
+				"Trabajo",
+				"TrabajoEstiramiento"
+			],
+			[
+				"Trabaj",
+				"TrabajoCardiovascular"
+			],
+			[
+				"Tra",
+				"TrabajoCardiovascular"
+			],
+			[
+				"ins",
+				"instructor"
+			],
+			[
+				"nombre",
+				"nombre_completo"
+			],
+			[
+				"va",
+				"value	@value"
+			],
+			[
+				"act",
+				"actualizar"
+			],
+			[
+				"model_",
+				"model_antecedentes_usuario"
+			],
+			[
+				"modelos",
+				"modelos_secundarios"
+			],
+			[
+				"cedu",
+				"cedula_usuario"
+			],
+			[
+				"Im",
+				"ImprimirDocumentos  (class)"
+			],
+			[
+				"listad",
+				"listado_planes_entrenamiento_libres"
+			],
+			[
+				"plane",
+				"planes_libres"
+			],
+			[
+				"Progra",
+				"ProgramaEjerciciosHasEnfermedad"
+			],
+			[
+				"Programa",
+				"ProgramaEjerciciosHasEnfermedad  (class)"
+			],
+			[
+				"idP",
+				"idPlan_entrenamiento  (variable)"
+			],
+			[
+				"model_trb",
+				"model_trabajo_estiramiento"
+			],
+			[
+				"model_trab",
+				"model_trabajo_cardiovascular"
+			],
+			[
+				"idV",
+				"idValoracion_funcional"
+			],
+			[
+				"vf",
+				"vf_disponibles"
+			],
+			[
+				"model_traba",
+				"model_trabajo_estiramiento"
+			],
+			[
+				"ante",
+				"antecedentes_usuario"
+			],
+			[
+				"CActive",
+				"CActiveDataProvider"
+			],
+			[
+				"idHis",
+				"idHistoria_GYM"
+			],
+			[
+				"idH",
+				"idHistoria_GYM  (variable)"
+			],
+			[
+				"model_antece",
+				"model_antecedentes_patologicos_enfermedad"
+			],
+			[
+				"model_examen",
+				"model_examen"
+			],
+			[
+				"str",
+				"str_enfermedades"
+			],
+			[
+				"css",
+				"css( name, value )	jquery.js"
+			],
+			[
+				"control",
+				"controller_ex"
+			],
+			[
+				"contro",
+				"controller_ex"
+			],
+			[
+				"Exam",
+				"ExamenController  (class)"
+			],
+			[
+				"model_antecede",
+				"model_antecedentes_trauma_lesion"
+			],
+			[
+				"idEva",
+				"idEvaluacion_medica  (variable)"
+			],
+			[
+				"tele",
+				"telefono_usuario"
+			],
+			[
+				"dire",
+				"direccion_residencia_usuario"
+			],
+			[
+				"Dat",
+				"DatosExtraUsuario  (class)"
+			],
+			[
+				"CI",
+				"cita"
+			],
+			[
+				"nom",
+				"nombre_completo"
+			],
+			[
+				"arr",
+				"arr_s"
+			],
+			[
+				"fget",
+				"fgets  (function)"
+			],
+			[
+				"wi",
+				"width:   (property)"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"mari",
+				"margin-left"
+			],
+			[
+				"func",
+				"funcionarios"
+			],
+			[
+				"sty",
+				"style	@style"
+			],
+			[
+				"fun",
+				"_funcionario"
+			],
+			[
+				"id_ar",
+				"id_area_en_nomina"
+			],
+			[
+				"are",
+				"areas_evaluadoras"
+			],
+			[
+				"funci",
+				"funcionario"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"area",
+				"areas_evaluadoras"
+			],
+			[
+				"areas",
+				"areas_evaluadoras"
+			],
+			[
+				"ARE",
+				"areas_evaluadoras"
+			],
+			[
+				"aras",
+				"areas_evaluadoras"
+			],
+			[
+				"hi",
+				"hidden	@=hidden"
+			],
+			[
+				"con",
+				"contenedor_areas"
+			],
+			[
+				"ele",
+				"element2_html"
+			],
+			[
+				"si",
+				"size:   (property)"
+			],
+			[
+				"font",
+				"font-family:   (property)"
+			],
+			[
+				"text",
+				"textField"
+			],
+			[
+				"tex",
+				"textField"
+			],
+			[
+				"condi",
+				"condition"
+			],
+			[
+				"fe",
+				"fechaingreso"
+			],
+			[
+				"num",
+				"num_dias"
+			],
+			[
+				"data",
+				"data_provider"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "js/script.js",
+			"settings":
+			{
+				"buffer_size": 4869,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/script_programacion.js",
+			"settings":
+			{
+				"buffer_size": 567,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "protected/controllers/ProgramacionController.php",
+			"settings":
+			{
+				"buffer_size": 5110,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "protected/views/programacion/_form.php",
+			"settings":
+			{
+				"buffer_size": 2752,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "protected/views/programacion/admin.php",
+			"settings":
+			{
+				"buffer_size": 1400,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "protected/models/Programacion.php",
+			"settings":
+			{
+				"buffer_size": 3948,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 380.0,
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"packge",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"packlag",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"snipet:ht",
+				"Snippet: html"
+			],
+			[
+				"snipp",
+				"Snippet: html"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"paclage",
+				"Package Control: Install Package"
+			],
+			[
+				":html",
+				"Snippet: html"
+			],
+			[
+				"aackag",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"packiag",
+				"Package Control: Install Package"
+			],
+			[
+				"paclkage",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 712.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/AppGestionHorarios/protected/models/Actividad.php",
+		"/C/xampp/htdocs/AppGestionHorarios/protected/views/programacion/admin.php",
+		"/C/xampp/htdocs/AppGestionHorarios/protected/extensions/bootstrap/widgets/TbGridView.php",
+		"/C/xampp/htdocs/AppGestionHorarios/protected/views/programacion/create.php",
+		"/C/xampp/htdocs/AppGestionHorarios/protected/views/programacion/_form.php",
+		"/C/xampp/htdocs/AppGestionHorarios/protected/controllers/ProgramacionController.php",
+		"/C/xampp/htdocs/AppGestionHorarios/js/script_programacion.js",
+		"/C/xampp/htdocs/AppGestionHorarios/protected/models/Horario.php",
+		"/C/xampp/htdocs/AppGestionHorarios/protected/models/TurnoHasHorario.php",
+		"/C/xampp/htdocs/AppGestionHorarios/js/script.js",
+		"/C/xampp/htdocs/AppGestionHorarios/protected/controllers/TurnoController.php",
+		"/C/xampp/htdocs/AppGestionHorarios/protected/config/main.php",
+		"/C/xampp/htdocs/AppGestionHorarios/protected/views/turno/admin.php",
+		"/C/xampp/htdocs/AppSolicitudes/protected/views/layouts/main.php",
+		"/C/xampp/htdocs/AppGymHC/js/Miscelaneaus.js",
+		"/C/xampp/htdocs/AppGestionHorarios/protected/views/actividad/admin.php",
+		"/C/xampp/htdocs/AppGestionHorarios/protected/models/Programacion.php",
+		"/C/xampp/htdocs/AppGestionHorarios/protected/views/calendario/admin.php",
+		"/C/xampp/htdocs/AppGestionHorarios/protected/components/IProgramacion.php",
+		"/C/xampp/htdocs/AppGestionHorarios/protected/views/turno/_form.php",
+		"/C/xampp/htdocs/AppGestionHorarios/protected/views/turno/update.php",
+		"/C/xampp/htdocs/AppGestionHorarios/protected/views/actividad/_form.php",
+		"/C/xampp/htdocs/AppGestionHorarios/protected/views/turno/create.php",
+		"/C/xampp/htdocs/AppGestionHorarios/protected/models/Turno.php",
+		"/C/xampp/htdocs/AppGestionHorarios/themes/bootstrap/views/layouts/main.php",
+		"/C/xampp/htdocs/AppSolicitudes/protected/config/main.php",
+		"/C/xampp/htdocs/AppGymHC/AppGymHC.sublime-project",
+		"/C/xampp/htdocs/AppGymHC/.gitignore",
+		"/C/xampp/htdocs/AppGymHC/protected/modules/fisioterapeuta/views/valoracionFuncional/_form.php",
+		"/C/xampp/htdocs/AppGymHC/protected/modules/secretaria/views/default/index.php",
+		"/C/xampp/htdocs/AppGymHC/protected/extensions/fullcalendar/FullcalendarWidget.php",
+		"/C/xampp/htdocs/AppGymHC/protected/extensions/fullcalendar/FullcalendarGraphWidget.php",
+		"/C/Users/rockerW7/Desktop/MSSQL_ER.sql",
+		"/C/xampp/htdocs/AppGymHC/protected/config/main.php",
+		"/C/Users/rockerW7/Documents/Archivos Comfenalco/Documentos ingdiaz/Proyectos/GymHC/Base de datos/GymHC-MSSQL.sql",
+		"/C/xampp/htdocs/AppSolicitudes/protected/modules/admin/views/prioridades/_form.php",
+		"/C/xampp/htdocs/AppSolicitudes/protected/modules/admin/views/prioridades/admin.php",
+		"/C/xampp/htdocs/AppSolicitudes/protected/modules/admin/views/prioridades/view.php",
+		"/C/xampp/htdocs/AppSolicitudes/protected/models/Prioridades.php",
+		"/C/Users/rockerW7/Documents/Archivos Comfenalco/Documentos ingdiaz/Proyectos/AppSolicitudes/src/AppSolicitudes/branches/0.7/protected/models/Prioridades.php",
+		"/C/xampp/htdocs/AppSolicitudes/protected/models/Puntajes.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/config/main.php",
+		"/C/xampp/htdocs/AppGymHC/trunk/trunk_0.7/protected/config/main.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/components/Controller.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/medico/views/evaluacionMedica/_form.php",
+		"/C/Users/rockerW7/Desktop/ER_min.sql",
+		"/C/Users/rockerW7/Desktop/eded.sql",
+		"/C/Users/rockerW7/Desktop/5555555.sql",
+		"/C/Users/rockerW7/Desktop/ASA.sql",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/medico/controllers/EvaluacionMedicaController.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/js/Miscelaneaus.js",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/models/Cita.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/administrador/controllers/EmpleadoController.php",
+		"/C/Users/rockerW7/Desktop/CMCCCF4320130211",
+		"/C/Validator/LogValidator",
+		"/C/Users/rockerW7/Documents/NetBeansProjects/RUAF_modificado/ERRORES20130211.txt",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/instructor/controllers/EjercicioController.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/instructor/views/programaEjercicios/_form.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/instructor/controllers/ProgramaEjerciciosController.php",
+		"/C/Users/rockerW7/Documents/NetBeansProjects/RUAF/branches/DesktopRuaf/dist/README.TXT",
+		"/C/Users/rockerW7/Desktop/KumbiaPHP-master/core/libs/event/hook.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/models/Rutina.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/models/ProgramaEjerciciosHasEnfermedad.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/instructor/views/programaEjercicios/view.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/instructor/views/programaEjercicios/create.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/instructor/views/programaEjercicios/_view.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/instructor/views/programaEjercicios/admin.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/controllers/SiteController.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/instructor/controllers/DefaultController.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/instructor/views/ejercicio/_form.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/models/Ejercicio.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/instructor/views/ejercicio/admin.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/instructor/views/ejercicio/_view.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/instructor/views/ejercicio/view.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/instructor/views/ejercicio/_search.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/views/layouts/main.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/instructor/views/ejercicio/create.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/fisioterapeuta/views/valoracionFuncional/_form.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/instructor/views/programaEjercicios/_search.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/secretaria/views/default/index.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/assets/d96e4cb7/fullcalendar.js",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/extensions/fullcalendar/assets/fullcalendar.js",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/extensions/fullcalendar/assets/fullcalendar.css",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/assets/d96e4cb7/fullcalendar.css",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/css/main.css",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/extensions/fullcalendar/FullcalendarWidget.php",
+		"/C/xampp/htdocs/AppGymHC/trunk/trunk_0.7/protected/modules/fisioterapeuta/views/valoracionFuncional/_form.php",
+		"/C/xampp/htdocs/AppGymHC/trunk/trunk_0.7/protected/modules/fisioterapeuta/controllers/ValoracionFuncionalController.php",
+		"/C/xampp/htdocs/AppGymHC/trunk/trunk_0.7/protected/modules/fisioterapeuta/views/valoracionFuncional/create.php",
+		"/C/xampp/htdocs/AppGymHC/trunk/trunk_0.7/protected/modules/fisioterapeuta/views/valoracionFuncional/admin.php",
+		"/C/xampp/htdocs/AppGymHC/trunk/trunk_0.7/js/Miscelaneaus.js",
+		"/C/xampp/htdocs/AppGymHC/trunk/trunk_0.7/protected/protected/modules/fisioterapeuta/views/valoracionFuncional/_form.php",
+		"/C/xampp/htdocs/AppGymHC/trunk/trunk_0.7/protected/protected/modules/fisioterapeuta/views/valoracionFuncional/_viewTestFuncionales.php",
+		"/C/xampp/htdocs/AppGymHC/trunk/trunk_0.7/protected/protected/modules/fisioterapeuta/views/valoracionFuncional/_viewPerimetros.php",
+		"/C/xampp/htdocs/AppGymHC/trunk/trunk_0.7/protected/protected/modules/fisioterapeuta/views/valoracionFuncional/_viewObservaciones.php",
+		"/C/xampp/htdocs/AppGymHC/trunk/trunk_0.7/protected/protected/modules/fisioterapeuta/views/valoracionFuncional/_viewFrecuenciaEntrenamiento.php",
+		"/C/xampp/htdocs/AppGymHC/trunk/trunk_0.7/protected/protected/modules/fisioterapeuta/views/valoracionFuncional/_viewDatosGenerales.php",
+		"/C/xampp/htdocs/AppGymHC/trunk/trunk_0.7/protected/protected/modules/fisioterapeuta/views/valoracionFuncional/_viewAntecedentesUsuario.php",
+		"/C/xampp/htdocs/AppGymHC/trunk/trunk_0.7/protected/protected/modules/fisioterapeuta/views/valoracionFuncional/create.php",
+		"/C/xampp/htdocs/AppGymHC/trunk/trunk_0.7/protected/models/HistoriaGYM.php",
+		"/C/xampp/htdocs/AppGymHC/trunk/trunk_0.7/protected/modules/fisioterapeuta/views/valoracionFuncional/_search.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/secretaria/controllers/CitaController.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/extensions/fullcalendar/FullcalendarGraphWidget.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/extensions/fullcalendar/assets/fullcalendar.min.js",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/extensions/fullcalendar/assets/jquery-ui-custom.js",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/extensions/fullcalendar/assets/gcal.js",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/secretaria/controllers/DefaultController.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/medico/views/evaluacionMedica/update.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/components/PDF.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/administrador/controllers/CargoController.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/fisioterapeuta/controllers/ValoracionFuncionalController.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/models/HistoriaGYM.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/fisioterapeuta/views/valoracionFuncional/update.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/medico/views/evaluacionMedica/create.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/medico/views/evaluacionMedica/_viewDatosGenerales.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/medico/views/evaluacionMedica/_view.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/medico/views/enfermedad/_search.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/medico/views/enfermedad/update.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/medico/views/enfermedad/_form.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/medico/views/enfermedad/admin.php",
+		"/C/Users/rockerW7/Desktop/EvaluacionMedicaController.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/medico/controllers/EnfermedadController.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/medico/views/evaluacionMedica/_viewAntecedentesPatologicos.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/fisioterapeuta/controllers/PlanEntrenamientoController.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/secretaria/views/cita/admin.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/medico/views/examen/_form.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/modules/administrador/controllers/DefaultController.php",
+		"/C/xampp/htdocs/AppGymHC/branches/branches_0.5/protected/models/DatosExtraUsuario.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"$model",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"refreshHorarios",
+			"int NOT NULL",
+			"model_programa_ejercicios_ejercicios",
+			"value",
+			");\n",
+			"data",
+			".*/",
+			"array_enfermedades",
+			"xxx",
+			"new",
+			"“",
+			"id_valoracion_funcional",
+			";\n",
+			"nombre_usuario",
+			"new",
+			"docdocumentotemp",
+			"`docdocumentotemp`\n",
+			"docdocumentotemp\n",
+			"\")\n",
+			"');\n",
+			"extensions",
+			"                }",
+			"idVUsuario",
+			"Seleccione una opcion",
+			"disabled",
+			"getPerfil",
+			"(){\n",
+			"IDENTIY",
+			"/*!",
+			"model_examen",
+			"model",
+			"();\n",
+			"()))",
+			"FontSizePt",
+			"Tarjeta",
+			"numtrans",
+			"areas",
+			"span9",
+			"print_r",
+			"NIT_M",
+			"id_area_evaluadora",
+			"app",
+			"();\n",
+			"areas",
+			"false",
+			"$model_detallemante",
+			"time",
+			"Deporte",
+			"num_dias",
+			"fechamant",
+			"Name",
+			"name"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"int NOT NULL IDENTITY (1,1)",
+			"`docdocumentofinal`",
+			"docdocumentofinal",
+			"IDENTITY",
+			"get",
+			"$model",
+			"Detallemante"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/script.js",
+					"settings":
+					{
+						"buffer_size": 4869,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/script_programacion.js",
+					"settings":
+					{
+						"buffer_size": 567,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "protected/controllers/ProgramacionController.php",
+					"settings":
+					{
+						"buffer_size": 5110,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2641,
+								2641
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 897.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "protected/views/programacion/_form.php",
+					"settings":
+					{
+						"buffer_size": 2752,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "protected/views/programacion/admin.php",
+					"settings":
+					{
+						"buffer_size": 1400,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1212,
+								1212
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "protected/models/Programacion.php",
+					"settings":
+					{
+						"buffer_size": 3948,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.git":
+	{
+		"height": 64.0
+	},
+	"output.phpdocumentor":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/xampp/htdocs/AppSolicitudes/AppSolicitudes.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 244.0,
+	"status_bar_visible": true
+}

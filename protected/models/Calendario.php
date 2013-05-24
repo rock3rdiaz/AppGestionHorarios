@@ -10,7 +10,7 @@
  * @property string $estado
  *
  * The followings are the available model relations:
- * @property Turno[] $turnos
+ * @property Programacion[] $programacions
  */
 class Calendario extends CActiveRecord
 {
@@ -56,7 +56,7 @@ class Calendario extends CActiveRecord
 		// NOTE: you may need to adjust the relation name and the related
 		// class name for the relations automatically generated below.
 		return array(
-			'turnos' => array(self::MANY_MANY, 'Turno', 'turno_has_calendario(Calendario_idCalendario, Turno_idTurno)'),
+			'programacions' => array(self::HAS_MANY, 'Programacion', 'Calendario_idCalendario'),
 		);
 	}
 

@@ -17,8 +17,7 @@
 					<div class="row-fluid">
 						<div class="span4">
 							<?php echo $form->dropDownListRow($model,'tipo', 
-								array('clase_grupal'=>'Clase grupal', 'servicio_empresarial'=>'Servicio empresarial', 
-								'servicio_interno'=>'Servicio interno')); ?>		
+								array('clase_grupal'=>'Clase grupal', 'servicio_empresarial'=>'Servicio empresarial')); ?>		
 						</div>
 			
 						<div class="span4">

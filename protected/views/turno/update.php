@@ -15,7 +15,7 @@ $this->menu=array(
 
 <h1>Update Turno <?php echo $model->idTurno; ?></h1>
 
-<?php echo $this->renderPartial('_form',array('model'=>$model, 'model_turno_calendario'=>$model_turno_calendario, 'horarios'=>$horarios)); ?>
+<?php echo $this->renderPartial('_form',array('model'=>$model, 'horarios'=>$horarios)); ?>
 
 <?php
 	Yii::app()->getClientScript()->registerScriptFile(Yii::app()->baseUrl . '/js/script.js', CClientScript::POS_END);

@@ -12,7 +12,7 @@ $this->menu=array(
 
 <h1>Create Turno</h1>
 
-<?php echo $this->renderPartial('_form', array('model'=>$model, 'model_turno_calendario'=>$model_turno_calendario,)); ?>
+<?php echo $this->renderPartial('_form', array('model'=>$model)); ?>
 
 <?php
 	Yii::app()->getClientScript()->registerScriptFile(Yii::app()->baseUrl . '/js/script.js', CClientScript::POS_END);
